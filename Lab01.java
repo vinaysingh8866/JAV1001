@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-public class JavaApplication2 {
+public class Lab01 {
     
    public static void main(String[] args) {
      createWindow();
